@@ -1,0 +1,21 @@
+/* boostrap ----*/
+@import url('bootstrap.min.css');
+
+/* roboto font ----*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,300,700,500');
+
+/* font awesome icons ----*/
+@import url('../fonts/font-awesome/css/font-awesome.min.css');
+
+/* linearicons ----*/
+@import url('https://cdn.linearicons.com/free/1.0.0/icon-font.min.css');
+
+/* animate css ----*/
+@import url('animate.min.css');
+
+/* custom css ----*/
+@import url('style.css');
+
+/* responsive css ----*/
+@import url('style.responsive.css');
+
